@@ -1,0 +1,36 @@
+Анализ точности модели на валидационном наборе
+============================================================
+ТОП-5 ХУДШИХ ПРЕДСКАЗАНИЙ:
+------------------------------------------------------------
+1. dish_id=dish_1566328776 | ошибка=621.7 ккал
+   Ингредиенты: chicken, cherry tomatoes, pizza
+
+2. dish_id=dish_1563478751 | ошибка=619.1 ккал
+   Ингредиенты: cream, mushroom, spinach (raw), olive oil, pasta, beef, wine, garlic, sour cream, onions, thyme, salt
+
+3. dish_id=dish_1561577947 | ошибка=557.2 ккал
+   Ингредиенты: olive oil, basil, arugula, blueberries, vinegar, mustard, walnuts, white wine, salt, rosemary, oregano, cream, mushroom, wheat berry, chard, pepper, chicken, shallots, garlic, butter, lemon juice, thyme
+
+4. dish_id=dish_1566328805 | ошибка=543.4 ккал
+   Ингредиенты: cherry tomatoes, pizza, chicken, pineapple
+
+5. dish_id=dish_1558720236 | ошибка=534.7 ккал
+   Ингредиенты: apple, carrot, cauliflower, almonds
+
+
+ТОП-5 ЛУЧШИХ ПРЕДСКАЗАНИЙ:
+------------------------------------------------------------
+1. dish_id=dish_1564675380 | ошибка=0.1 ккал
+   Ингредиенты: turkey bacon
+
+2. dish_id=dish_1563996509 | ошибка=0.5 ккал
+   Ингредиенты: walnuts, cauliflower, oregano, arugula, mushroom, chard, wheat berry, garlic, shallots, thyme, cream, mustard, rosemary, white wine, chicken, pepper, vinegar, olive oil, blueberries, lemon juice, basil, salt, butter, roasted potatoes
+
+3. dish_id=dish_1558720097 | ошибка=0.5 ккал
+   Ингредиенты: carrot
+
+4. dish_id=dish_1561393715 | ошибка=0.9 ккал
+   Ингредиенты: broccoli
+
+5. dish_id=dish_1559841979 | ошибка=1.1 ккал
+   Ингредиенты: broccoli, mandarin oranges
