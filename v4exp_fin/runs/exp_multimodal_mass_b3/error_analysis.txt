@@ -1,0 +1,36 @@
+Анализ точности модели на валидационном наборе
+============================================================
+ТОП-5 ХУДШИХ ПРЕДСКАЗАНИЙ:
+------------------------------------------------------------
+1. dish_id=dish_1565811139 | ошибка=512.8 ккал
+   Ингредиенты: broccoli, carrot, chicken, goat cheese, olive oil, spinach (raw)
+
+2. dish_id=dish_1563478751 | ошибка=423.9 ккал
+   Ингредиенты: beef, cream, garlic, mushroom, olive oil, onions, pasta, salt, sour cream, spinach (raw), thyme, wine
+
+3. dish_id=dish_1566328805 | ошибка=353.9 ккал
+   Ингредиенты: cherry tomatoes, chicken, pineapple, pizza
+
+4. dish_id=dish_1558720236 | ошибка=342.1 ккал
+   Ингредиенты: almonds, apple, carrot, cauliflower
+
+5. dish_id=dish_1566328831 | ошибка=299.2 ккал
+   Ингредиенты: cherry tomatoes, chicken, olives, pineapple, pizza
+
+
+ТОП-5 ЛУЧШИХ ПРЕДСКАЗАНИЙ:
+------------------------------------------------------------
+1. dish_id=dish_1561654326 | ошибка=0.0 ккал
+   Ингредиенты: blackberries, granola, mixed greens, raspberries, vinaigrette
+
+2. dish_id=dish_1559578551 | ошибка=0.1 ккал
+   Ингредиенты: bacon
+
+3. dish_id=dish_1562690886 | ошибка=0.2 ккал
+   Ингредиенты: broccoli, olive oil
+
+4. dish_id=dish_1562790824 | ошибка=0.3 ккал
+   Ингредиенты: bell peppers, country rice, cucumbers, fish, garlic, green onions, mustard, olive oil, onions, radishes, salt, vinegar
+
+5. dish_id=dish_1561741063 | ошибка=0.4 ккал
+   Ингредиенты: cottage cheese
